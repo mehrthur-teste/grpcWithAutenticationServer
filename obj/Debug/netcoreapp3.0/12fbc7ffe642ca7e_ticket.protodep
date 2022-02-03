@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.0/Ticket.cs \
+obj\Debug\netcoreapp3.0/TicketGrpc.cs: C:/Users/mehrthur.silva/.nuget/packages/grpc.tools/2.23.0/build/native/include/google/protobuf/empty.proto\
+ Protos/ticket.proto
